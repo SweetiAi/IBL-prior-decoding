@@ -18,7 +18,7 @@ Thumbs.db
 data/
 
 # Generated outputs
-results/figures/*
+
 results/tables/*
 
 # Secrets
