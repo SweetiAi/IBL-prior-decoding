@@ -150,30 +150,7 @@ The planned workflow is:
 
 The distinction between **objective prior**, **modeled subjective prior**, and **neural representation of prior** will be maintained throughout the analysis.
 
----
 
-## Repository Structure
-
-```text
-IBL-prior-decoding/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── notebooks/
-│   └── IBL_prior_decoding_analysis.ipynb
-│
-└── results/
-    ├── figures/
-    └── tables/
-```
-
-The notebook contains the current exploratory analysis.
-
-The `results/` directory contains selected analysis outputs and figures. Raw experimental data are not stored in this repository.
-
----
 
 ## Project Status
 
